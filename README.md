@@ -34,8 +34,11 @@ The application uses SQL Server LocalDB to store and manage data persistently.
 
 Add your application Images inside a folder named `Images` in the project root, then update the filenames below to match your images.
 
-### Login Interface
-![Login Interface](Images/login.png)
+### Sign In Interface
+![Login Interface](Images/sign_in.png)
+
+### Sign Up Interface
+![Login Interface](Images/sign_up.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](Images/dashboard.png)
