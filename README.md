@@ -47,7 +47,7 @@ Add your application Images inside a folder named `Images` in the project root, 
 ![Account Creation](Images/account-creation.png)
 
 ### View Accounts
-![View Accounts](Images/view-accounts.png)
+![View Accounts](Images/view-account.png)
 
 ### Deposit Management
 ![Deposit Management](Images/deposit.png)
